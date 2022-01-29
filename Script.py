@@ -6,7 +6,7 @@ Just Add Me To Your Group And Enjoy Of All Available Movies On TG.
 Made With ❤ BY @lunasupportz"""
     HELP_TXT = """Hell'O {}
 Here is the Help For My Bot Commands."""
-    ABOUT_TXT = """☞ My Name: ALAN WALKER
+    ABOUT_TXT = """☞ My Name: [𝘼𝙇𝘼𝙉 𝙒𝘼𝙇𝙆𝙀𝙍](https://t.me/alpha_romeo_06)
 ☞ Developer: @lunasupportz
 ☞ Library: Pyrogram
 ☞ Language: Python 3
